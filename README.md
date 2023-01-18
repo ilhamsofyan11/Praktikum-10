@@ -1,9 +1,9 @@
 # Praktikum 10
 # Pertemuan 14 : Python String
 
-## Nama : Muhammad Ilham Sofyan Saifudin
-## NIM  : 312210297
-## Kelas: TI 22 A3
+#### Nama : Muhammad Ilham Sofyan Saifudin
+#### NIM  : 312210297
+#### Kelas: TI 22 A3
 
 ## Apa Itu String Pada Aplikasi Python?
 
