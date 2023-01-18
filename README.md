@@ -7,7 +7,7 @@
 
 ## Apa Itu String Pada Aplikasi Python?
 
-* ## String adalah jenis yang paling populer di Python.
-* ## Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
-* ## Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
-* ## Membuat string semudah memberi nilai pada sebuah variabel.
+* String adalah jenis yang paling populer di Python.
+* Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
+* Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
+* Membuat string semudah memberi nilai pada sebuah variabel.
