@@ -99,7 +99,7 @@ print(txt.format(umur))
 print(txt.replace('...','24'))
 ```
 ### Output
-![img](SS/prak%2010%20bawah.png)
+![img](SS/baru.png)
 
 
 
