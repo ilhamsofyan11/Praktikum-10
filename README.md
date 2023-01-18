@@ -83,7 +83,7 @@ Source code
 print(txt.replace("H","J"))
 ```
 ### Output
-![img](ss/prak%2010.png)
+![img](SS/prak%2010.png)
 * Lengkapi kode Berikut :
 ```
 umur = 24
@@ -99,7 +99,7 @@ print(txt.format(umur))
 print(txt.replace('...','24'))
 ```
 ### Output
-![img](ss/prak%2010%20bawah.png)
+![img](SS/prak%2010%20bawah.png)
 
 
 
