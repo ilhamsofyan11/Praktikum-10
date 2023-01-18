@@ -48,12 +48,42 @@ print ("Updated String :- ", message[:6] + 'Python')
 txt = 'Hello World'
 ```
 * Hitung jumlah karakternya
+```
+Source Code
+print(len(txt))
+```
 * Ambil karakter terakhir
+```
+Source code
+print(txt[-1])
+```
 * Ambil karakter index ke-2 sampai index ke-4 (llo)
+```
+Source Code
+print(txt[2:5])
+```
 * Hilangkan spasi pada text tersebut (HelloWorld)
+```
+Source Code
+print(txt.replace(" ",""))
+```
 * Ubah text menjadi huruf besar
+```
+Source Code
+print(txt.upper())
+```
 * Ubah text menjadi huruf kecil
+```
+Source Code
+print(txt.lower())
+```
 * Ganti karakter H dengan karakter J
+```
+Source code
+print(txt.replace("H","J"))
+```
+### Output
+![img](ss/prak%2010.png)
 * Lengkapi kode Berikut :
 ```
 umur = 24
@@ -61,5 +91,15 @@ txt = 'Hello, nama saya john, dan umur saya adalah ... tahun'
 
 print(txt.format(umur))
 ```
+```
+Source Code
+umur = 24
+txt = 'Hello, nama saya john, dan umur saya adalah ... tahun'
+print(txt.format(umur))
+print(txt.replace('...','24'))
+```
+### Output
+![img](ss/prak%2010%20bawah.png)
+
 
 
