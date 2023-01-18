@@ -11,3 +11,11 @@
 * Untuk membuatnya hanya dengan melampirkan karakter dalam tanda kutip.
 * Python memperlakukan tanda kutip tunggal sama dengan tanda kutip ganda.
 * Membuat string semudah memberi nilai pada sebuah variabel.
+* Contoh String
+
+```
+var1 = 'Hello World!'                 # penggunaan petik tunggal
+var2 = "Python Programming"           # penggunaan petik ganda
+```
+
+
